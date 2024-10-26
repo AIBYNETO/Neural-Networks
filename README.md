@@ -3,7 +3,7 @@
 🔹 Course 1: Implement Neural Networks and Backpropagation with NumPy | Short course  
 (Python Code will be uploading soon!)  
 
-🔹 Course 2: Intro to Neural Networks
+🔹 Course 2: Intro to Neural Networks  
 Outline:
 1. Well-known applications of Neural Networks (NNs)
 2. Learning complex structures from data
