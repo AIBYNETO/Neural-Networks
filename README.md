@@ -12,5 +12,6 @@ Outlines:
 4. Logistic regression
 5. Gradient descent intuition
 6. Backpropagation  
+
 สามารถเข้าไปเรียนได้ที่ [YouTube: AIBYNETO](https://youtube.com/playlist?list=PLhXjVXPW2GqVPkC3HYMKdb4e1Eaw_S13h&si=4dfUSjMy4FZDl4DZ)  
    
